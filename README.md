@@ -23,8 +23,7 @@ This project demonstrates SQL skills for analyzing e-commerce order and customer
 ## Files
 
 - `ecommerce_analysis.sql` — SQL queries and table definitions.
-- `screenshots/` — Screenshots of executed queries and results.
-- `README.md` — Project documentation.
+- `screenshot` — Screenshot of executed queries and results.
 
 ## Key SQL Concepts
 
